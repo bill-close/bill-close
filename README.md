@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @bill-close
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 Please email me at will.close@hotmail.com
+- 👀 I’m interested in all things related to computing (AI, HPC, Parallel computing, Big data) and molecular biology (Disease diagnosis, prognosis, causes and prevention)
+- 🌱 I’m currently learning Artificial Intelligence (Specifically Visual Computing)
+- 💞️ I’m looking to collaborate with everyone!
+- 📫 Please email me at will.close@hotmail.com if you would like to chat
 
 <!---
 bill-close/bill-close is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
